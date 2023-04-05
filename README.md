@@ -1,1 +1,1 @@
-# Create React App with Tailwind CSS
+# Create React App with Chakra UI
